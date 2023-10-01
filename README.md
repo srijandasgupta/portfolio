@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-![Website Screenshot](https://github.com/niladri-1/Portfolio-Website/blob/main/Demo.png)
+![Website Screenshot](https://github.com/srijandasgupta/portfolio/blob/main/Image/Demo.png)
 
 ## Description
 
